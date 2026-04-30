@@ -11,5 +11,12 @@
 			"Chrome Web Store": "https://chromewebstore.google.com/detail/my-ip-tool/ljjgbfofgkekflhnjpkghffchmjgcgjm",
 			"Microsoft Edge Add-ons": "https://microsoftedge.microsoft.com/addons/detail/my-ip-tool/pdhdebnmhkhjdpbeeblcgjoiipdfmfmp"
 		}
+	},
+	"mute-if-not-focusing": {
+		"version": "1.0.0",
+		"hasIcon": true,
+		"displayName": "Mute Unless Page Focused",
+		"description": "Mute all tabs except the page that currently has focus.",
+		"link": {}
 	}
 }
